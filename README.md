@@ -3,6 +3,15 @@
 An end-to-end Natural Language Processing (NLP) web application that automatically classifies raw, unstructured e-commerce product titles and descriptions into precise retail categories. Built with *Scikit-Learn text pipelines* and deployed as an interactive *Streamlit dashboard*.
 
 ---
+## 🖥️ Live Dashboard Preview
+
+### 📊 Dataset Analysis
+![AI Product Categorizer App Data Distribution](dashboard.png)
+
+### 🔮 Live Categorization Inference
+![AI Product Categorizer App Prediction Result](dashboard1.png)
+
+
 
 ## 🚀 Features
 * *Real-time Inference:* Input any raw product title or description and get an instant category classification badge.
