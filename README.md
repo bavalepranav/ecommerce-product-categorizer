@@ -79,6 +79,6 @@ The model was evaluated using a standard 80/20 train/test split on a substantial
 * Performance indicators show no signs of overfitting, proving the model is highly stable and fully ready for generalized real-time e-commerce inference deployment.
 
 ## 👤 Author
-* *Your Name* - [Your GitHub Profile](https://github.com/bavalepranav)
+* *Pranav Bavale* - [Your GitHub Profile](https://github.com/bavalepranav)
 * *LinkedIn:* [Your LinkedIn Link](www.linkedin.com/in/
 pranav-bavale-367b09416)
